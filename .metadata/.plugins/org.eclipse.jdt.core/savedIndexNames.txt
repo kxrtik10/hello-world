@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\karti\Downloads\Path\hello-world\.metadata\.plugins\org.eclipse.jdt.core
+165248198.index
+1189830077.index
+1865797976.index
